@@ -11,6 +11,6 @@ labels for users.
 
 **3.face_predict** file recognizes the user with some percantage of being true.Here the Computer vision face recognizer i.e.**LBPHFaceRecognizer** was used to recognize different users    
 
-The **4.face-recognition-sytem** file is comnbined code of all 3 files which perform all the three task in single file  
+**4.face-recognition-sytem** file is comnbined code of all 3 files which perform all the three task in single file  
 
 Here are some pictures you will be seeing for your **dataset** folder  and your detected and recognised face.
