@@ -4,7 +4,7 @@ And through further processing the images will be converted to an .yml files and
 
 Here the projects description is done :  
 **1.face_dataset** file uses computer vision for face detection using **haarcascade** xml file of face, the video is captured and images are stored in folder.  
-This file also takes the name of user so that at time of reognition the user is recognised by its name.
+This file also takes the name of user so that at time of recognition the user is recognised by its name.
 
 **2.face_labels**file uses some pyhon library to perform some file reading the dataset which we got are then labelled here and a trainer.yml file is created which consist of   
 labels for users.
